@@ -1,3 +1,9 @@
+# My settings
+.idea/*
+.DS_Store
+src/train.txt
+train/
+
 # Compiled Object files
 *.slo
 *.lo

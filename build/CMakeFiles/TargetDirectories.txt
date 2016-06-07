@@ -1,0 +1,3 @@
+/Users/wen/git/Hough-Transform-OCR-Image/build/CMakeFiles/edit_cache.dir
+/Users/wen/git/Hough-Transform-OCR-Image/build/CMakeFiles/rebuild_cache.dir
+/Users/wen/git/Hough-Transform-OCR-Image/build/CMakeFiles/Hough_Transform_OCR_Image.dir
